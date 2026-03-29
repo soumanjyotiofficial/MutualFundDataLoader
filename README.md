@@ -49,7 +49,7 @@ Download the file from dist and then open the command prompt in download folder 
 ### Install from wheel
 
 ```bash
-pip install mutualfunddataloader-<version>.whl
+pip install mutualfunddataloader-0.1.0-py3-none-any.whl
 ```
 
 ### Install from source
