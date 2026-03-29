@@ -55,7 +55,7 @@ pip install mutualfunddataloader-0.1.0-py3-none-any.whl
 ### Install from source
 
 ```bash
-pip install mutualfunddataloader-<version>.tar.gz
+pip install mutualfunddataloader-0.1.0.tar.gz
 ```
 
 ---
