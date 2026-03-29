@@ -44,7 +44,7 @@ This makes it easier to build:
 
 # Installation
 
-You can install the package using the distributed files.
+Download the file from dist and then open the command prompt in download folder and type the following command
 
 ### Install from wheel
 
